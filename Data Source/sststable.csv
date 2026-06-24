@@ -1,0 +1,25 @@
+stsid,sts
+1,Closed - No Response
+2,Closed
+3,Closed - Resolved
+4,In Progress
+5,On Hold
+6,New
+7,Waiting on IT
+8,Active
+9,Pending Provisioning
+10,Terminated
+11,Open
+12,Closed - Not Reproducible
+13,Re-opened
+14,Review Process Pending
+15,Waiting on Customer
+16,Cancelled
+17,Onboarding
+18,Suspended
+19,Waiting
+20,Triaged
+21,Closed - Rejected
+22,Working
+23,Assigned
+24,Approval requested

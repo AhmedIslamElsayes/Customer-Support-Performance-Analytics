@@ -1,0 +1,97 @@
+IssTypID,IssCtgryID,IssTyp
+1,8,Additional Provisioning Related-Issues
+2,8,Additional Provisioning-Requests
+3,5,Adjustment / Transfer Related-Issues
+4,11,Adjustment or Transfer of Deposit/Refund
+5,6,Airtel Website Related-Issues
+6,6,Airtel Website Related-Requests
+7,1,Bill Copy/Details Not Received
+8,4,Bill Payment Collection-Issues
+9,4,Bill Payment Collection-Requests
+10,2,Bill Related Discrepancy
+11,6,Call Center IVR Related-Issues
+12,6,Call Center IVR-Requests
+13,9,Call Connectivity Problem
+14,3,Churn Related Issue
+15,4,Collection Channels Related-Issues
+16,4,Collection Channels Related-Requests
+17,4,Collections Services Related
+18,9,Connection Not Working
+19,6,Correspondence Related-Issues
+20,6,Correspondence-Requests
+21,7,CPE or Hardware Related
+22,5,Credit Card to be Charged-Post Authorisation
+23,10,Customer Profile Updation Related-Issues
+24,10,Customer Profile Updation-Requests
+25,8,Delay in Installation
+26,11,Delay in Refund Receipt
+27,8,Delay in Same Premise Shifting
+28,8,Delay in Shifting to Other Premise
+29,1,Delivery Services Related
+30,5,Detail Required-COLLECTION/PAYMENT
+31,9,Disruption in Data or Network Services
+32,9,Disruption in Data Services
+33,9,Disruption in Internet Related Services
+34,9,Disruption in Services
+35,6,Do Not Disturb Services Related-Issues
+36,6,Do Not Disturb Services-Requests
+37,9,Fault Repair Services Related
+38,9,Fault Repair-Requests
+39,8,FL Disconnection
+40,10,Grouping/De Grouping Related-Issues
+41,10,Grouping/De Grouping-Requests
+42,8,Installation Provisioning Services Related-Issues
+43,8,Installation/Shifting Related-issues
+44,7,Instrument Related
+45,9,Internet related Services
+46,10,IPTV-Request for Tarrif/Scheme Change
+47,10,IPTV-Tariff/Scheme Change Related-Issues
+48,12,Marketing Gifts/Offers Related-Issues
+49,12,Marketing Related-Issues
+50,12,Marketing-Requests
+51,9,Mass Outage
+52,10,MAX MAGIC Related-Issues
+53,2,MAX MAGIC-Bill Discrepancy
+54,1,MAX MAGIC-Request-Bill Copy/Details
+55,6,NDNC Non Compliance-Issues
+56,9,Network Element Related
+57,8,Network Element Related-Issues
+58,8,Network Elements-Requests
+59,10,Number Change Related-Issues
+60,10,Number Change-Requests
+61,10,Ownership Change Related-Issues
+62,10,Ownership Change-Requests
+63,5,Payment Posting Related
+64,6,People Related-Issues
+65,11,Pre - Installation cancellation
+66,3,Reactivation Related
+67,3,Reactivation Related Issues
+68,11,Refund Related Request
+69,11,Refunds-Amount Discrepancy
+70,11,Refunds-Other Discrepancy
+71,8,Reprovisioning Related-Issues
+72,8,Reprovisioning-Requests
+73,1,Request- Bill Copy/Details
+74,8,Request for Installation Team Visit
+75,4,Request for Services Restoration
+76,10,Request for SI/ECS Updation or Cancellation
+77,10,Request for Tarrif/Scheme Change
+78,10,Safe Custody Related-Issues
+79,10,Safe Custody-Requests
+80,12,Sales Related-Issues
+81,12,Sales-Requests
+82,8,Same Premise Shifting-Requests
+83,5,Security Payment Not Posted
+84,4,Services Restoration Issue
+85,8,Shifting to New Address-Requests
+86,10,SI/ECS Updation or Cancellation Incorrectly Done
+87,10,SI/ECS Updation or Cancellation Not Done
+88,5,SI/ECS/Auth. Related Issues
+89,9,Switch Related Disruptions
+90,10,Tariff Migration Request
+91,6,VAM Related - Request
+92,12,Vam Up selling Related - Issues
+93,10,VAS Activated without consent
+94,10,VAS Related-Issues
+95,10,VAS-Requests
+96,13,Waivers (Validation + Package Correction)

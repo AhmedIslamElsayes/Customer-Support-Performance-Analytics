@@ -1,0 +1,321 @@
+IssTypID,SubIssTypid,SubIssTyp
+79,1,Activation of Facility
+78,2,Activation Related
+94,3,Activation/Deactivation/Other VAS Issues
+95,4,Activation/Deactivation/Other VAS Requests
+1,5,Additional Wiring
+2,5,Additional Wiring
+74,7,Appointment for Provisioning
+64,8,Behaviour Issues
+10,9,Benefits Dispute
+29,10,Bill Copy/Details-Received Late
+5,11,Bill or Itemised Bill View
+23,12,Billing Related
+24,13,Billing Related Request
+52,13,Billing Related Request
+61,15,Blood Relation
+62,15,Blood Relation
+33,17,BOD
+46,18,Broadcast TV Related
+33,19,Browsing - Marketing / VAS Related Issue
+33,20,Browsing Related
+38,20,Browsing Related
+95,22,Call Alert/Call Waiting
+10,23,Call Charges Dispute
+32,24,Call Drop
+89,24,Call Drop
+94,26,Call Forwarding-Unconditional
+95,26,Call Forwarding-Unconditional
+92,28,Campaigns Related
+83,29,CASH/CHEQUE/CREDIT CARD
+22,30,CC to be Charged
+60,31,Centrex Code Change
+94,32,Centrex Facility
+95,32,Centrex Facility
+68,34,Cheque/DD to be Made in New Name
+44,35,CLI Instrument
+94,36,CLIP Facility
+95,36,CLIP Facility
+71,38,Coil Cord
+17,39,Collection Call Related Issue
+15,40,Collection Center Staff Misbehaviour
+15,41,Collection Channels Related-Issues
+17,42,Collection Visit Related Issue
+64,43,Commitment Issues
+80,44,Commitment Related
+5,45,Complaint/Request Status View
+41,46,Consolidated Billing
+40,47,Consolidated Billing Not Enabled
+44,48,Cordless Instrument
+72,48,Cordless Instrument
+74,50,CPE Collection
+74,51,CPE or Hardware
+20,52,CPE-Hardware-Instrument Details
+45,53,Create or Delete Email
+34,54,Cross Connection
+63,55,Current Payment Not Posted
+20,56,Customer Correspondence
+93,57,DATA RELATED VAS
+79,58,Deactivation of Facility
+78,59,Deactivation Related
+89,60,Delay in Call Set Up
+14,61,Delay in Cancellation Request Processing
+89,62,Delay in Dial Tone
+48,63,Delivery Related
+68,64,Deposit Refund
+33,65,Destination Site Related
+34,66,Different Dialtone
+82,67,Different Room-Same Inst Add
+27,68,Different Room-Same Install Add
+39,69,Disconnction Request Due to Falcon2 Migration
+39,70,Disconnection Request
+34,71,Disturbance in Line
+20,72,Documents and Manuals
+30,72,Documents and Manuals
+80,74,Documents Related
+81,74,Documents Related
+58,76,DP Damaged-Restoration
+57,77,DP Not Rehabilitated
+56,78,DP Related
+58,79,DP Shifting
+57,80,DP Shifting Improperly Done
+57,81,DP Shifting Not Done
+15,82,Drop Boxes Clearence
+23,83,DSL Billing Related
+38,84,DSL Dial Up Backup Service
+38,85,DSL login password reset
+45,85,DSL login password reset
+24,87,DSL Related Billing Request
+93,88,DSL VAS Related
+94,88,DSL VAS Related
+7,90,Duplicate Bill
+73,90,Duplicate Bill
+94,93,Dynamic Lock
+95,93,Dynamic Lock
+94,95,Dynamic Lock Password Reset
+95,95,Dynamic Lock Password Reset
+34,97,Echo
+76,98,ECS Cancellation
+86,98,ECS Cancellation
+88,100,ECS Not Debited
+76,101,ECS Updation
+86,101,ECS Updation
+87,101,ECS Updation
+45,104,Email Password Reset
+37,105,Email Password Reset-Not Done
+33,106,"Email-""Unable to receive"""
+33,107,"Email-""Unable to send """
+34,108,Error Message-System Busy
+95,109,Explicit Call Transfer
+25,110,Field Provisioning
+42,111,Field Provisioning-Appointment Not Kept
+38,112,Field Visit Required
+26,113,Forced Cancellation-Pre Installation
+26,114,Forced Churn-Post Installation
+37,115,Frequent Disconnection
+80,116,FSO Related
+25,117,Full Line Activation
+34,118,Half Ring or False Ring
+94,119,Hello Tunes
+95,119,Hello Tunes
+72,121,Hold Shifting Request
+9,122,Home Pay Collection
+8,123,Home Pay Related
+43,124,House Wiring
+84,125,IC and OG Release Not Done
+75,126,IC and OG Services Release
+75,127,IC Services Release
+66,128,Improper Reactivation
+67,128,Improper Reactivation
+91,130,Induction Call Related
+81,131,Induction Visit
+20,132,Information Required-Procedures
+43,133,Installation Related
+85,134,Inter City - Different City
+28,135,Inter City-Across Circles
+37,136,Internet Connectivity Issue
+28,137,Intra City - Same City
+85,137,Intra City - Same City
+1,139,Intra City-Within Same Circle
+28,139,Intra City-Within Same Circle
+70,141,Invalid Cheque/DD Received
+10,142,IPTV Charges Dispute
+93,143,IPTV Related VAS
+34,144,IPTV System Errors or System Busy
+94,145,ISD Facility
+95,145,ISD Facility
+7,147,Itemised-ISD/STD/Intra/Local Details
+73,147,Itemised-ISD/STD/Intra/Local Details
+73,149,Itemised-Local Call Details
+7,150,Itemised-STD/ISD/Intra Details
+11,151,IVR Functioning or Usage Related
+64,152,Knowledge Issues
+80,153,Lead Related
+2,154,Line Cord
+31,155,Line Fluctuating
+32,155,Line Fluctuating
+13,157,Line or Lines Not Working
+18,157,Line or Lines Not Working
+56,157,Line or Lines Not Working
+5,160,Login of Complaint/ Request
+45,161,Mail Client Configuration
+49,162,Marketing Related
+50,163,Marketing Related Offers
+77,164,Mid Cycle Migration - Above 2 mbps
+23,165,Mid Cycle Migration - Below 2 mbps
+77,165,Mid Cycle Migration - Below 2 mbps
+46,167,Mid Cycle Migration other DSL Plans
+90,167,Mid Cycle Migration other DSL Plans
+77,169,Migration above 2 mbps
+10,170,Migration Related Dispute
+77,171,Migration within 2 mbps
+95,172,MLHG Facility
+54,173,MOBILE Itemised Bill-ONE TIME
+1,174,Modem
+2,174,Modem
+21,174,Modem
+37,174,Modem
+18,178,Modem- No Link on Modem
+38,179,Modem Reinstallation-Online
+45,179,Modem Reinstallation-Online
+18,181,Modem Reinstallation-Site Visit
+37,181,Modem Reinstallation-Site Visit
+38,181,Modem Reinstallation-Site Visit
+74,181,Modem Reinstallation-Site Visit
+55,185,NDNC-complaint related disconnection
+16,186,New Collection Center
+13,187,No Incoming & Outgoing Calls
+13,188,No Incoming & Outgoing Calls-Outage Related
+13,189,No Incoming Calls
+13,190,No Incoming Calls-Outage Related
+13,191,No Outgoing Calls
+51,191,No Outgoing Calls
+13,193,No Outgoing Calls-Outage Related
+24,194,Non Billing Related Request
+44,195,Normal Telephone Instrument
+59,196,Number Change
+60,196,Number Change
+84,198,OG Release Not Done
+75,199,OG Services Release
+10,200,One Time-Installation/Activation Charges Dispute
+34,201,One Way Speech
+7,202,Original Bill-Ebill Facility Copy
+7,203,Original Bill-Hard Copy
+69,204,Other Amount Dispute
+10,205,Other Charges Dispute
+46,206,Other IPTV Services Related
+29,207,Pages Missing Or Torn
+1,208,Parallel Connection
+2,208,Parallel Connection
+18,210,Parallel Connection Not Working
+94,211,Parallel Ringing
+95,211,Parallel Ringing
+37,213,Password Reset-Not Done
+5,214,Payment Related
+53,214,Payment Related
+3,216,Payment Transfer-Incorrectly Done
+3,217,Payment Transfer-Not Done
+1,218,PC Secure
+72,219,PC-Modem Cord
+71,220,PC-Router Cord
+72,220,PC-Router Cord
+34,222,Picture Freezing
+51,223,Planned Outage
+29,224,POD Details Incomplete/Incorrect/Missing
+34,225,Poor Voice Quality or Low Speech Problem
+63,226,Post Dated Payment Not Posted
+65,227,Pre - Installation cancellation
+49,228,Premium Services Related
+50,228,Premium Services Related
+63,230,Previous Payment Not Posted
+38,231,Proactive-CPE Cleaning or Replacement Required
+38,232,Proactive-Wiring Repair or Replacement Required
+37,233,Quality of Fault Repair Work
+64,234,Quality of Work or Effort Issues
+69,235,Refund Amount Dispute
+80,236,Registration Fee
+63,237,Registration Fee Not Posted
+38,238,Registration of User ID and Password
+94,239,Remote Telephony Management
+10,240,Rental Charges
+92,240,Rental Charges
+77,242,Request for Migration in Max Magic
+66,243,Request For Reactivation
+71,244,Rewiring
+72,244,Rewiring
+7,246,Reworked Bill
+1,247,Router
+2,247,Router
+21,247,Router
+37,250,Router Reconfiguration
+38,250,Router Reconfiguration
+82,252,Same Room Shifting
+20,253,Schemes and Tariff Details
+95,254,Selective Call Barring
+93,255,Selective Call Waiting
+6,256,Self Care Password
+5,257,Self Care Password Related Issues
+6,258,Self Care Registration
+5,259,Self Care Registration Issues
+6,259,Self Care Registration Issues
+41,261,Separate Billing
+11,262,Service Request Related
+74,263,Services
+19,264,Services Issues
+1,265,Set Top Box
+21,265,Set Top Box
+10,267,Shifting Charges
+76,268,SI Cancellation
+87,268,SI Cancellation
+88,270,SI Not Debited
+76,271,SI Updation
+86,271,SI Updation
+87,271,SI Updation
+94,274,Smartbyte
+95,274,Smartbyte
+71,276,Splitter
+72,276,Splitter
+73,278,Statement of Accounts
+34,279,Status Hanged at Registering
+94,280,STD Facility
+95,280,STD Facility
+34,282,Stuck at 7%
+47,283,Tariff Migration
+90,283,Tariff Migration
+35,285,Tele Marketing Calls
+36,285,Tele Marketing Calls
+1,287,Telephone Instrument
+2,287,Telephone Instrument
+61,289,Third Party Transfer
+62,289,Third Party Transfer
+93,291,Three Party Conference
+90,292,Top Up Scheme Activation
+90,293,Top Up Scheme Deactivation
+77,294,Top-Up Activation Request
+77,295,Top-Up De-activation Request
+12,296,TPIN Related
+74,297,Trouble Shooting
+89,298,Unable to Disconnect Call
+5,299,Unbilled Usage View
+51,300,Unplanned Outage
+10,301,Usage Dispute-Calls
+10,302,Usage Dispute-Data
+10,303,Usage Dispute-VAS Services
+89,304,Video Conferencing or Fax Not Working
+37,305,Visit Made-Not as Per Appointed Time
+37,306,Visit Not made
+95,307,VMS Facility
+93,308,VOICE RELATED VAS
+4,309,Voluntary Cancellation-Post Installation
+26,309,Voluntary Cancellation-Post Installation
+4,311,Voluntary Cancellation-Pre Installation
+26,311,Voluntary Cancellation-Pre Installation
+18,313,VPN Connection Not Working
+34,314,Waiting Signal
+10,315,Waiver Related
+96,316,Waiver Request
+5,317,Web Portal Performance
+95,318,Website Builder
+33,319,Website Related Issue
+18,320,Wifi Related
+20,321,Written Reply Required
